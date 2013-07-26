@@ -7,7 +7,7 @@
 #
 # Revision History
 # ----------------
-# 16Jan13 - SergioBarbosa - Created controller.
+# 23Jul13 - SergioBarbosa - Created controller.
 #*******************************************************************************
 class FurnitureController < ActionController::Base
   protect_from_forgery
