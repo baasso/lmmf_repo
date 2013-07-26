@@ -9,9 +9,7 @@
 # ----------------
 # 23Jul13 - SergioBarbosa - Created controller.
 #*******************************************************************************
-class FurnitureController < ActionController::Base
-  protect_from_forgery
-
+class FurnitureController < ApplicationController
   def index
   end
 end
